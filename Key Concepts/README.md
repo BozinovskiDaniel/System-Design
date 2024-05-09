@@ -3,7 +3,7 @@
 This involves the following design concepts:
 
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/DYAO" target="_blank">Scalability</a>
-* Latency vs Throughput
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/HYAO">Latency vs Throughput</a>
 * CAP Theorem
 * ACID Transactions
 * Consistent Hashing
