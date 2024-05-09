@@ -5,7 +5,7 @@ This involves the following design concepts:
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/ZIAP">Vertical vs Horizontal Scaling</a>
 * Databases
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/cIAP">Content Delivery Network (CDN)</a>
-* Domain Name System (DNS)
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/qAAP">Domain Name System (DNS)</a>
 * Caching
 * Distributed Caching
 * Load Balancing
