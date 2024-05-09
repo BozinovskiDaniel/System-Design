@@ -10,7 +10,7 @@ This involves the following design concepts:
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/RQAP">Rate Limiting</a>
 * API Design
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/UAAP">Strong vs Eventual Consistency</a>
-* Synchronous vs. asynchronous communications
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/XAAP">Synchronous vs. asynchronous communications</a>
 * REST vs RPC
 * Batch Processing vs Stream Processing
 * Fault Tolerance
