@@ -7,7 +7,7 @@ This involves the following design concepts:
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/GAAR">CAP Theorem</a>
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/LAAR">ACID Transactions</a>
 * Consistent Hashing
-* Rate Limiting
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/RQAP">Rate Limiting</a>
 * API Design
 * Strong vs Eventual Consistency
 * Synchronous vs. asynchronous communications
