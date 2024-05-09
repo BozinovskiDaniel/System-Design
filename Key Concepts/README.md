@@ -2,7 +2,7 @@
 
 This involves the following design concepts:
 
-* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/DYAO" target="__blank">Scalability</a>
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/DYAO" target="_blank">Scalability</a>
 * Latency vs Throughput
 * CAP Theorem
 * ACID Transactions
