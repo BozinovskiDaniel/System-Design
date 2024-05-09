@@ -19,4 +19,4 @@ This involves the following design concepts:
 * Service Discovery
 * Disaster Recovery
 * Distributed Tracing
-* Top 15 Tradeoffs
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/cgAP">Top 15 Tradeoffs</a>
