@@ -2,7 +2,7 @@
 
 This involves the following design concepts:
 
-* Vertical vs Horizontal Scaling
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/ZIAP">Vertical vs Horizontal Scaling</a>
 * Databases
 * Content Delivery Network (CDN)
 * Domain Name System (DNS)
