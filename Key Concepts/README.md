@@ -9,7 +9,7 @@ This involves the following design concepts:
 * Consistent Hashing
 * <a href="https://bozinovskidaniel.atlassian.net/wiki/x/RQAP">Rate Limiting</a>
 * API Design
-* Strong vs Eventual Consistency
+* <a href="https://bozinovskidaniel.atlassian.net/wiki/x/UAAP">Strong vs Eventual Consistency</a>
 * Synchronous vs. asynchronous communications
 * REST vs RPC
 * Batch Processing vs Stream Processing
